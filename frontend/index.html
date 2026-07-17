@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="css/hero.css" />
     <link rel="stylesheet" href="css/components.css" />
     <link rel="stylesheet" href="css/animations.css" />
+    <link rel="stylesheet" href="css/waitlist.css" />
   </head>
   <body>
     <a class="skip-link" href="#main">Aller au contenu</a>
@@ -59,7 +60,7 @@
             <li><a href="#parcours">Parcours</a></li>
             <li><a href="#decouvrir">Découvrir</a></li>
             <li>
-              <a class="btn btn--small btn--primary" href="#cta">Essayer Mila</a>
+              <a class="btn btn--small btn--primary" href="#cta">Liste d’attente</a>
             </li>
           </ul>
         </nav>
@@ -90,7 +91,7 @@
             </p>
           </div>
           <div class="hero__actions hero__fade">
-            <a class="btn btn--primary" href="#cta">Commencer gratuitement</a>
+            <a class="btn btn--primary" href="#cta">Me prévenir au lancement</a>
             <a class="btn btn--ghost" href="#fonctionnalites">Voir l’app</a>
           </div>
         </div>
@@ -261,13 +262,10 @@
             height="64"
             alt=""
           />
-          <h2 id="cta-title">Prête à retrouver ton éclat&nbsp;?</h2>
-          <p>
-            Débloque ton plan Mila et avance à ton rythme — annulable à tout
-            moment.
-          </p>
-          <a class="btn btn--primary btn--large" href="#top">Débloquer mon plan</a>
-          <p class="cta__note">Bientôt sur l’App Store &amp; Google Play</p>
+          <h2 id="cta-title">Mila arrive bientôt</h2>
+          <p>Laisse ton Instagram ou TikTok — on te prévient au lancement.</p>
+          <div data-waitlist></div>
+          <p class="cta__note">App Store &amp; Google Play — bientôt.</p>
         </div>
       </section>
     </main>
@@ -294,6 +292,7 @@
     <script src="js/nav.js" defer></script>
     <script src="js/reveal.js" defer></script>
     <script src="js/story.js" defer></script>
+    <script src="js/waitlist.js" defer></script>
     <script src="js/main.js" defer></script>
   </body>
 </html>
