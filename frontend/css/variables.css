@@ -1,0 +1,64 @@
+/*
+  Design tokens extracted from Mila logo and app screens.
+  Coral #EE725B (logo), blush pinks, warm cream surfaces, charcoal text.
+*/
+
+:root {
+  /* Brand core — from logo */
+  --color-coral: #ee725b;
+  --color-coral-deep: #e45f4a;
+  --color-peach: #fce0c9;
+  --color-peach-soft: #fef1e5;
+
+  /* App UI accents — from screens */
+  --color-rose: #db6a83;
+  --color-blush: #ffc5cd;
+  --color-blush-soft: #fdf0f1;
+  --color-pink-mist: #f8d7da;
+
+  /* Surfaces */
+  --color-cream: #fdf8f6;
+  --color-cream-deep: #faf3f0;
+  --color-surface: #ffffff;
+  --color-ink: #3d2b2f;
+  --color-ink-soft: #6b5a5e;
+  --color-muted: #9a8e91;
+
+  /* Gradients */
+  --gradient-hero: linear-gradient(
+    165deg,
+    #fff9f6 0%,
+    #fde8e2 38%,
+    #f8d4ce 72%,
+    #f4c4b8 100%
+  );
+  --gradient-cta: linear-gradient(180deg, #faf3f0 0%, #fceae9 55%, #f8d7da 100%);
+  --gradient-gauge: linear-gradient(135deg, #ee725b 0%, #db6a83 100%);
+
+  /* Typography */
+  --font-display: "Fraunces", "Times New Roman", serif;
+  --font-body: "Manrope", "Segoe UI", sans-serif;
+
+  /* Spacing & radius */
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1.25rem;
+  --space-lg: 2rem;
+  --space-xl: 3.5rem;
+  --space-2xl: 5.5rem;
+  --radius-sm: 12px;
+  --radius-md: 22px;
+  --radius-lg: 32px;
+  --radius-pill: 999px;
+  --phone-radius: 36px;
+
+  /* Elevation */
+  --shadow-phone: 0 28px 60px rgba(61, 43, 47, 0.14);
+  --shadow-soft: 0 12px 40px rgba(238, 114, 91, 0.12);
+
+  /* Layout */
+  --max-width: 1120px;
+  --header-h: 4.25rem;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration: 0.55s;
+}

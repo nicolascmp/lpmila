@@ -1,0 +1,195 @@
+/*
+  Styles for Mila legal pages (privacy policy and similar long-form documents).
+*/
+
+.legal-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(ellipse at 10% 0%, rgba(255, 197, 205, 0.35), transparent 45%),
+    radial-gradient(ellipse at 90% 10%, rgba(238, 114, 91, 0.12), transparent 40%),
+    var(--color-cream);
+}
+
+.legal-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(14px);
+  background: rgba(253, 248, 246, 0.9);
+  border-bottom: 1px solid rgba(61, 43, 47, 0.06);
+}
+
+.legal-header__inner {
+  width: min(100% - 2.5rem, 48rem);
+  margin-inline: auto;
+  min-height: var(--header-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.legal-header .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.legal-header .brand__mark {
+  border-radius: 22%;
+  box-shadow: 0 6px 16px rgba(238, 114, 91, 0.28);
+}
+
+.legal-header .brand__name {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.legal-header__back {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--color-ink-soft);
+}
+
+.legal-header__back:hover {
+  color: var(--color-rose);
+}
+
+.legal-main {
+  width: min(100% - 2.5rem, 48rem);
+  margin: var(--space-xl) auto var(--space-2xl);
+}
+
+.legal-hero {
+  margin-bottom: var(--space-xl);
+}
+
+.legal-hero__brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: var(--space-md);
+}
+
+.legal-hero__brand img {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 22%;
+  box-shadow: var(--shadow-soft);
+}
+
+.legal-hero__brand span {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.legal-hero h1 {
+  font-size: clamp(2rem, 5vw, 2.75rem);
+  margin-bottom: 0.5rem;
+}
+
+.legal__meta {
+  color: var(--color-muted);
+  font-size: 0.95rem;
+}
+
+.legal__callout {
+  margin: var(--space-lg) 0;
+  padding: 1.25rem 1.35rem;
+  border-radius: var(--radius-md);
+  background: var(--color-blush-soft);
+  border: 1px solid rgba(219, 106, 131, 0.18);
+}
+
+.legal__callout-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--color-ink);
+  margin-bottom: 0.45rem;
+}
+
+.legal-article h2 {
+  margin: var(--space-xl) 0 var(--space-md);
+  font-size: clamp(1.35rem, 2.5vw, 1.65rem);
+}
+
+.legal-article h3 {
+  margin: var(--space-lg) 0 var(--space-sm);
+  font-size: 1.1rem;
+  font-family: var(--font-body);
+  font-weight: 700;
+}
+
+.legal-article p {
+  margin: 0 0 1rem;
+}
+
+.legal-article ul,
+.legal-article ol {
+  margin: 0 0 1.15rem;
+  padding-left: 1.2rem;
+  color: var(--color-ink-soft);
+}
+
+.legal-article li {
+  margin-bottom: 0.45rem;
+}
+
+.legal-article a {
+  color: var(--color-rose);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.legal__table-wrap {
+  overflow-x: auto;
+  margin: 0 0 1.25rem;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(61, 43, 47, 0.08);
+  background: var(--color-surface);
+}
+
+.legal__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.legal__table th,
+.legal__table td {
+  padding: 0.85rem 1rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(61, 43, 47, 0.06);
+}
+
+.legal__table th {
+  background: var(--color-blush-soft);
+  color: var(--color-ink);
+  font-weight: 700;
+}
+
+.legal__table tr:last-child td {
+  border-bottom: 0;
+}
+
+.legal-footer {
+  border-top: 1px solid rgba(61, 43, 47, 0.08);
+  padding: var(--space-lg) 0;
+}
+
+.legal-footer__inner {
+  width: min(100% - 2.5rem, 48rem);
+  margin-inline: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  justify-content: space-between;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}

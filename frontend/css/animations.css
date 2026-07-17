@@ -1,0 +1,103 @@
+/*
+  Intentional motion: reveal-on-scroll, hero float, soft atmosphere drift.
+*/
+
+.reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition:
+    opacity var(--duration) var(--ease-out),
+    transform var(--duration) var(--ease-out);
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.hero__logo {
+  animation: logo-pop 0.9s var(--ease-out) both;
+}
+
+.hero__brand {
+  animation: brand-rise 1s var(--ease-out) 0.08s both;
+}
+
+.hero__fade {
+  animation: brand-rise 0.9s var(--ease-out) 0.2s both;
+}
+
+.hero__actions.hero__fade {
+  animation-delay: 0.32s;
+}
+
+.hero .phone--primary {
+  animation: phone-float 7s ease-in-out infinite;
+}
+
+.hero .phone--secondary {
+  animation: phone-float 8.5s ease-in-out 0.6s infinite;
+}
+
+.hero__atmosphere {
+  animation: atmosphere-shift 14s ease-in-out infinite alternate;
+  background-size: 120% 120%;
+}
+
+@keyframes logo-pop {
+  from {
+    opacity: 0;
+    transform: scale(0.86) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes brand-rise {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes phone-float {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -12px;
+  }
+}
+
+@keyframes atmosphere-shift {
+  from {
+    filter: hue-rotate(0deg) saturate(1);
+  }
+  to {
+    filter: hue-rotate(8deg) saturate(1.05);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero__logo,
+  .hero__brand,
+  .hero__fade,
+  .hero .phone--primary,
+  .hero .phone--secondary,
+  .hero__atmosphere {
+    animation: none;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
