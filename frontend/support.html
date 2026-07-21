@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
-  Mila terms of use (CGU) page.
-  Hosts the full Conditions générales d’utilisation et d’abonnement.
+  Mila support page.
+  Contact form for users to reach STELYA support before / after launch.
 -->
 <html lang="fr">
   <head>
@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Conditions générales d’utilisation et d’abonnement de l’application Mila (STELYA)."
+      content="Contacte le support Mila pour une question sur l’app, un abonnement ou ton compte."
     />
     <meta name="theme-color" content="#EE725B" />
-    <title>Conditions générales d’utilisation — Mila</title>
+    <title>Support — Mila</title>
     <link rel="icon" type="image/png" href="assets/images/logo-mila.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -22,10 +22,12 @@
     />
     <link rel="stylesheet" href="css/variables.css" />
     <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/components.css" />
     <link rel="stylesheet" href="css/legal.css" />
+    <link rel="stylesheet" href="css/support.css" />
   </head>
   <body class="legal-page">
-    <a class="skip-link" href="#cgu-content">Aller au contenu</a>
+    <a class="skip-link" href="#support-content">Aller au contenu</a>
 
     <header class="legal-header">
       <div class="legal-header__inner">
@@ -43,46 +45,36 @@
       </div>
     </header>
 
-    <main class="legal-main" id="cgu-content">
+    <main class="legal-main" id="support-content">
       <header class="legal-hero">
         <div class="legal-hero__brand">
           <img src="assets/images/logo-mila.png" width="40" height="40" alt="" />
           <span>Mila</span>
         </div>
-        <h1>Conditions générales d’utilisation et d’abonnement</h1>
+        <h1>Support</h1>
+        <p class="legal__meta">
+          Une question sur Mila ? Envoie-nous un message — on te répond dès que
+          possible.
+        </p>
       </header>
 
-      <article
-        class="legal-article"
-        data-legal-root
-        data-legal-key="MILA_CGU"
-      >
-        <noscript>
-          <p>
-            Activez JavaScript pour afficher les CGU complètes, ou contactez
-            <a href="mailto:support@mila-skincare.com">support@mila-skincare.com</a>.
-          </p>
-        </noscript>
-      </article>
+      <div data-support-root></div>
     </main>
 
     <footer class="legal-footer">
       <div class="legal-footer__inner">
         <p>© <span data-year></span> STELYA — Mila</p>
         <p>
-          <a href="support.html">Support</a>
+          <a href="cgu.html">CGU</a>
           ·
-          <a href="privacy.html">Politique de confidentialité</a>
+          <a href="privacy.html">Confidentialité</a>
           ·
           <a href="index.html">Accueil</a>
         </p>
       </div>
     </footer>
 
-    <script src="js/cgu-data-1.js" defer></script>
-    <script src="js/cgu-data-2.js" defer></script>
-    <script src="js/cgu-data-3.js" defer></script>
-    <script src="js/legal-render.js" defer></script>
+    <script src="js/support.js" defer></script>
     <script src="js/main.js" defer></script>
   </body>
 </html>

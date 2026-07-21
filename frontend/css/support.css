@@ -1,0 +1,108 @@
+/*
+  Styles for the Mila support contact form page.
+*/
+
+.support-form {
+  position: relative;
+  display: grid;
+  gap: 1rem;
+  margin-top: var(--space-lg);
+  padding: 1.35rem 1.35rem 1.5rem;
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(61, 43, 47, 0.08);
+}
+
+.support-form__field {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.support-form__label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.support-form__input,
+.support-form__select,
+.support-form__textarea {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid rgba(61, 43, 47, 0.12);
+  background: #fff;
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s var(--ease-out), box-shadow 0.2s var(--ease-out);
+}
+
+.support-form__textarea {
+  min-height: 9rem;
+  resize: vertical;
+  line-height: 1.5;
+}
+
+.support-form__input:focus,
+.support-form__select:focus,
+.support-form__textarea:focus {
+  border-color: var(--color-rose);
+  box-shadow: 0 0 0 3px rgba(219, 106, 131, 0.18);
+}
+
+.support-form__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin-top: 0.25rem;
+}
+
+.support-form__actions .btn:disabled {
+  opacity: 0.65;
+  cursor: wait;
+  transform: none;
+}
+
+.support-form__honey {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.support-form__hint,
+.support-form__status {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+.support-form__status[data-kind="ok"] {
+  color: #2f6b4f;
+  font-weight: 600;
+}
+
+.support-form__status[data-kind="error"] {
+  color: #a33b3b;
+  font-weight: 600;
+}
+
+.support-form__status[data-kind="pending"] {
+  color: var(--color-ink-soft);
+}
+
+.support-form__alt {
+  margin-top: var(--space-md);
+  font-size: 0.92rem;
+  color: var(--color-ink-soft);
+}
+
+.support-form__alt a {
+  color: var(--color-rose);
+  font-weight: 600;
+}
