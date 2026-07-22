@@ -1,6 +1,6 @@
 /*
   Pre-launch waitlist: collects an Instagram or TikTok handle via FormSubmit.
-  Used while the Mila app is not yet available on the stores.
+  Used while the Myla app is not yet available on the stores.
 */
 
 (function initWaitlist() {
@@ -9,7 +9,7 @@
     return;
   }
 
-  const ENDPOINT = "https://formsubmit.co/ajax/support@mila-skincare.com";
+  const ENDPOINT = "https://formsubmit.co/ajax/support@myla-skincare.com";
   // Instagram / TikTok style handle: optional @, 1–30 chars
   const HANDLE_RE = /^@?[A-Za-z0-9._]{1,30}$/;
 
@@ -107,9 +107,9 @@
         body: JSON.stringify({
           platform,
           handle,
-          _subject: `Mila — liste d'attente (${platform})`,
+          _subject: `Myla — liste d'attente (${platform})`,
           _template: "table",
-          message: `Nouvelle inscription liste d'attente Mila via ${platform}.`,
+          message: `Nouvelle inscription liste d'attente Myla via ${platform}.`,
         }),
       });
 
@@ -121,7 +121,7 @@
       form.reset();
     } catch (_error) {
       setStatus(
-        "Envoi impossible pour le moment. Écris-nous à support@mila-skincare.com.",
+        "Envoi impossible pour le moment. Écris-nous à support@myla-skincare.com.",
         "error"
       );
     } finally {

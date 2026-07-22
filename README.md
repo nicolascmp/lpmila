@@ -1,11 +1,11 @@
 <!--
-  Project README for the Mila marketing site.
+  Project README for the Myla marketing site.
   Covers local preview and Vercel deployment.
 -->
 
-# Mila — Landing page
+# Myla — Landing page
 
-Static marketing site for **Mila**, the skincare companion app by STELYA.
+Static marketing site for **Myla**, the skincare companion app by STELYA.
 
 ## Structure
 

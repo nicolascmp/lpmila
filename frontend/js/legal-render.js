@@ -1,5 +1,5 @@
 /*
-  Shared renderer for Mila legal pages (privacy policy, terms of use).
+  Shared renderer for Myla legal pages (privacy policy, terms of use).
   Reads blocks from window[data-legal-key] and escapes all text for XSS safety.
 */
 
@@ -28,8 +28,8 @@
   const linkify = (escaped) =>
     escaped
       .replaceAll(
-        "support@mila-skincare.com",
-        '<a href="mailto:support@mila-skincare.com">support@mila-skincare.com</a>'
+        "support@myla-skincare.com",
+        '<a href="mailto:support@myla-skincare.com">support@myla-skincare.com</a>'
       )
       .replaceAll(
         "Politique de confidentialité",

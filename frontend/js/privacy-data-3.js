@@ -1,9 +1,9 @@
 /*
-  Privacy policy content chunk 3 for Mila legal page.
-  Generated from Politique_de_confidentialite_Mila.docx — do not edit by hand.
+  Privacy policy content chunk 3 for Myla legal page.
+  Generated from Politique_de_confidentialite_Myla.docx — do not edit by hand.
 */
-window.MILA_PRIVACY = window.MILA_PRIVACY || [];
-window.MILA_PRIVACY.push(...[
+window.MYLA_PRIVACY = window.MYLA_PRIVACY || [];
+window.MYLA_PRIVACY.push(...[
   {
     "type": "li",
     "text": "contrôles d’accès fondés sur le moindre privilège, authentification renforcée des comptes administrateurs et limitation du personnel habilité ;"
@@ -22,7 +22,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Aucune méthode de transmission ou de stockage ne peut garantir une sécurité absolue. Si vous pensez que votre compte ou vos données ont été compromis, contactez-nous immédiatement à support@mila-skincare.com."
+    "text": "Aucune méthode de transmission ou de stockage ne peut garantir une sécurité absolue. Si vous pensez que votre compte ou vos données ont été compromis, contactez-nous immédiatement à support@myla-skincare.com."
   },
   {
     "type": "h2",
@@ -66,7 +66,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Vous pouvez exercer vos droits depuis les réglages de Mila lorsqu’une commande est disponible, ou par e-mail à support@mila-skincare.com. Nous pouvons demander des informations raisonnablement nécessaires pour vérifier votre identité. Nous répondons gratuitement dans le délai applicable, en principe un mois au titre du RGPD ou 45 jours lorsque certaines lois américaines s’appliquent, sauf prolongation légalement permise."
+    "text": "Vous pouvez exercer vos droits depuis les réglages de Myla lorsqu’une commande est disponible, ou par e-mail à support@myla-skincare.com. Nous pouvons demander des informations raisonnablement nécessaires pour vérifier votre identité. Nous répondons gratuitement dans le délai applicable, en principe un mois au titre du RGPD ou 45 jours lorsque certaines lois américaines s’appliquent, sauf prolongation légalement permise."
   },
   {
     "type": "h2",
@@ -78,7 +78,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Vous pouvez aussi supprimer une photographie ou un bilan depuis votre historique lorsqu’une commande de suppression est proposée, ou demander son effacement à support@mila-skincare.com. Le retrait du consentement n’annule pas automatiquement l’abonnement Apple."
+    "text": "Vous pouvez aussi supprimer une photographie ou un bilan depuis votre historique lorsqu’une commande de suppression est proposée, ou demander son effacement à support@myla-skincare.com. Le retrait du consentement n’annule pas automatiquement l’abonnement Apple."
   },
   {
     "type": "h2",
@@ -86,11 +86,11 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Vous pouvez initier la suppression complète depuis Profil > Réglages > Supprimer mon compte. Après confirmation, Mila supprime le compte et les données associées de ses systèmes actifs, demande la suppression aux sous-traitants concernés et révoque les jetons Sign in with Apple, sous réserve des informations que la loi nous oblige à conserver."
+    "text": "Vous pouvez initier la suppression complète depuis Profil > Réglages > Supprimer mon compte. Après confirmation, Myla supprime le compte et les données associées de ses systèmes actifs, demande la suppression aux sous-traitants concernés et révoque les jetons Sign in with Apple, sous réserve des informations que la loi nous oblige à conserver."
   },
   {
     "type": "p",
-    "text": "La suppression du compte n’annule pas automatiquement un abonnement renouvelable géré par Apple. Avant de confirmer, Mila doit vous proposer d’ouvrir la page de gestion des abonnements Apple. Vous pouvez supprimer le compte immédiatement même si l’abonnement reste actif ; Apple gère séparément la facturation, l’annulation et les remboursements."
+    "text": "La suppression du compte n’annule pas automatiquement un abonnement renouvelable géré par Apple. Avant de confirmer, Myla doit vous proposer d’ouvrir la page de gestion des abonnements Apple. Vous pouvez supprimer le compte immédiatement même si l’abonnement reste actif ; Apple gère séparément la facturation, l’annulation et les remboursements."
   },
   {
     "type": "h2",
@@ -98,7 +98,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Pour les résidents des États américains qui protègent spécifiquement les données de santé des consommateurs, notamment l’État de Washington, les « données de santé des consommateurs » traitées par Mila comprennent les photos de peau, caractéristiques et scores déduits, historique de produits ou traitements, niveau de stress, état émotionnel, routines et objectifs liés à la peau."
+    "text": "Pour les résidents des États américains qui protègent spécifiquement les données de santé des consommateurs, notamment l’État de Washington, les « données de santé des consommateurs » traitées par Myla comprennent les photos de peau, caractéristiques et scores déduits, historique de produits ou traitements, niveau de stress, état émotionnel, routines et objectifs liés à la peau."
   },
   {
     "type": "p",
@@ -106,7 +106,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Mila ne vend pas les données de santé des consommateurs. Vous pouvez confirmer si nous traitons de telles données, y accéder, obtenir la liste des tiers concernés, retirer votre consentement et demander leur suppression. Nous transmettrons la demande de suppression aux prestataires concernés. Les sauvegardes sont supprimées dans les délais décrits à la section 11 et, si une loi locale l’autorise, au plus tard dans le délai maximal prévu par cette loi. Vous pouvez contester un refus en répondant à notre décision ou en écrivant à support@mila-skincare.com avec l’objet « Appel vie privée »."
+    "text": "Myla ne vend pas les données de santé des consommateurs. Vous pouvez confirmer si nous traitons de telles données, y accéder, obtenir la liste des tiers concernés, retirer votre consentement et demander leur suppression. Nous transmettrons la demande de suppression aux prestataires concernés. Les sauvegardes sont supprimées dans les délais décrits à la section 11 et, si une loi locale l’autorise, au plus tard dans le délai maximal prévu par cette loi. Vous pouvez contester un refus en répondant à notre décision ou en écrivant à support@myla-skincare.com avec l’objet « Appel vie privée »."
   },
   {
     "type": "h2",
@@ -126,7 +126,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Nous pouvons modifier cette politique pour refléter une évolution de Mila, de nos prestataires ou de la loi. La date et la version figurent en tête du document. En cas de changement important concernant les données sensibles, les destinataires ou les finalités, nous vous informerons de manière visible et recueillerons un nouveau consentement lorsque la loi l’exige."
+    "text": "Nous pouvons modifier cette politique pour refléter une évolution de Myla, de nos prestataires ou de la loi. La date et la version figurent en tête du document. En cas de changement important concernant les données sensibles, les destinataires ou les finalités, nous vous informerons de manière visible et recueillerons un nouveau consentement lorsque la loi l’exige."
   },
   {
     "type": "h2",
@@ -134,10 +134,10 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "STELYA — Mila\n10 square Jean Thébaud\n75015 Paris — France"
+    "text": "STELYA — Myla\n10 square Jean Thébaud\n75015 Paris — France"
   },
   {
     "type": "p",
-    "text": "E-mail : support@mila-skincare.com"
+    "text": "E-mail : support@myla-skincare.com"
   }
 ]);

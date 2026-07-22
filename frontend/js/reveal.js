@@ -36,7 +36,7 @@
 
   let observer = observe(Array.from(document.querySelectorAll("[data-reveal]")));
 
-  document.addEventListener("mila:story-ready", () => {
+  document.addEventListener("myla:story-ready", () => {
     if (observer) {
       observer.disconnect();
     }

@@ -14,9 +14,9 @@
       step: "01 — Analyse",
       title: "Un diagnostic peau lisible",
       copy:
-        "Mila transforme ta photo en indice peau, avec une analyse front, joues, menton et zone T. Tu repars avec un message clair — et un potentiel réaliste sur 90 jours.",
+        "Myla transforme ta photo en indice peau, avec une analyse front, joues, menton et zone T. Tu repars avec un message clair — et un potentiel réaliste sur 90 jours.",
       image: "assets/screens/diagnostic.png",
-      alt: "Écran diagnostic peau Mila avec un score de 82 sur 100",
+      alt: "Écran diagnostic peau Myla avec un score de 82 sur 100",
       reverse: false,
     },
     {
@@ -25,14 +25,14 @@
       copy:
         "Capture ton évolution, note comment tu te sens, et suis les tendances. Moins d’intuition floue, plus de repères concrets.",
       image: "assets/screens/journal.png",
-      alt: "Écran journal Mila avec photo du jour et sélection d’humeur",
+      alt: "Écran journal Myla avec photo du jour et sélection d’humeur",
       reverse: true,
     },
     {
       step: "03 — Mon plan",
       title: "Une routine qui tient la route",
       copy:
-        "Nettoyant, sérum, hydratant, SPF… Mila structure tes étapes matin et soir, et te montre ce qui reste à faire — sans culpabiliser.",
+        "Nettoyant, sérum, hydratant, SPF… Myla structure tes étapes matin et soir, et te montre ce qui reste à faire — sans culpabiliser.",
       image: "assets/screens/routine.png",
       alt: "Écran routine du jour avec étapes de soins matin",
       reverse: false,
@@ -43,7 +43,7 @@
       copy:
         "Bilan initial, bilans peau hebdo et espace pour l’évolution de ton score. La constance devient visible — et motivante.",
       image: "assets/screens/profil.png",
-      alt: "Écran profil Mila avec bilan initial et progression",
+      alt: "Écran profil Myla avec bilan initial et progression",
       reverse: true,
     },
   ];
@@ -84,5 +84,5 @@
     })
     .join("");
 
-  document.dispatchEvent(new CustomEvent("mila:story-ready"));
+  document.dispatchEvent(new CustomEvent("myla:story-ready"));
 })();

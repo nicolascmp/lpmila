@@ -1,9 +1,9 @@
 /*
-  Terms of use (CGU) content chunk 2 for Mila legal page.
-  Generated from CGU_Mila_Google_Docs.docx — do not edit by hand.
+  Terms of use (CGU) content chunk 2 for Myla legal page.
+  Generated from CGU_Myla_Google_Docs.docx — do not edit by hand.
 */
-window.MILA_CGU = window.MILA_CGU || [];
-window.MILA_CGU.push(...[
+window.MYLA_CGU = window.MYLA_CGU || [];
+window.MYLA_CGU.push(...[
   {
     "type": "p",
     "text": "L’utilisateur peut restaurer un abonnement acheté avec le même compte Apple au moyen de la fonction « Restaurer mes achats ». La restauration dépend de la validation du reçu et du statut de l’abonnement auprès d’Apple."
@@ -46,7 +46,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Il est interdit d’utiliser Mila à des fins illégales ou frauduleuses, de transmettre les données d’un tiers, de contourner l’abonnement, de perturber les systèmes, d’extraire automatiquement des données, de désassembler l’Application, ou d’utiliser Mila pour fournir à des tiers un diagnostic ou un traitement médical."
+    "text": "Il est interdit d’utiliser Myla à des fins illégales ou frauduleuses, de transmettre les données d’un tiers, de contourner l’abonnement, de perturber les systèmes, d’extraire automatiquement des données, de désassembler l’Application, ou d’utiliser Myla pour fournir à des tiers un diagnostic ou un traitement médical."
   },
   {
     "type": "h2",
@@ -54,7 +54,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "STELYA met en œuvre des moyens raisonnables pour assurer le fonctionnement et la sécurité de Mila. L’accès peut être interrompu pour maintenance, mise à jour, panne, problème de réseau, indisponibilité d’un prestataire ou événement hors du contrôle raisonnable de STELYA."
+    "text": "STELYA met en œuvre des moyens raisonnables pour assurer le fonctionnement et la sécurité de Myla. L’accès peut être interrompu pour maintenance, mise à jour, panne, problème de réseau, indisponibilité d’un prestataire ou événement hors du contrôle raisonnable de STELYA."
   },
   {
     "type": "p",
@@ -66,7 +66,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Mila ne garantit ni la disparition de l’acné, ni une amélioration dans un délai déterminé, ni l’efficacité ou l’absence d’effets indésirables d’un produit, ni l’exactitude absolue des analyses, ni un résultat esthétique particulier. L’évolution de la peau dépend de nombreux facteurs individuels."
+    "text": "Myla ne garantit ni la disparition de l’acné, ni une amélioration dans un délai déterminé, ni l’efficacité ou l’absence d’effets indésirables d’un produit, ni l’exactitude absolue des analyses, ni un résultat esthétique particulier. L’évolution de la peau dépend de nombreux facteurs individuels."
   },
   {
     "type": "h2",
@@ -86,11 +86,11 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Mila, sa marque, son interface, ses éléments graphiques, textes, logiciels, bases de données et contenus, hors contenus de l’utilisateur, sont protégés. L’utilisateur dispose d’un droit personnel, limité, non exclusif et non transférable d’utiliser l’Application pour ses besoins privés."
+    "text": "Myla, sa marque, son interface, ses éléments graphiques, textes, logiciels, bases de données et contenus, hors contenus de l’utilisateur, sont protégés. L’utilisateur dispose d’un droit personnel, limité, non exclusif et non transférable d’utiliser l’Application pour ses besoins privés."
   },
   {
     "type": "p",
-    "text": "Les conditions standard de licence d’Apple s’appliquent également à l’utilisation de Mila sur les appareils Apple."
+    "text": "Les conditions standard de licence d’Apple s’appliquent également à l’utilisation de Myla sur les appareils Apple."
   },
   {
     "type": "h2",
@@ -106,11 +106,11 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Le traitement des photographies, réponses au questionnaire, historiques, routines et états émotionnels est décrit dans la Politique de confidentialité de Mila, accessible avant la création du compte, dans l’Application, sur la fiche App Store et depuis l’écran d’abonnement."
+    "text": "Le traitement des photographies, réponses au questionnaire, historiques, routines et états émotionnels est décrit dans la Politique de confidentialité de Myla, accessible avant la création du compte, dans l’Application, sur la fiche App Store et depuis l’écran d’abonnement."
   },
   {
     "type": "p",
-    "text": "Contact relatif aux données personnelles : support@mila-skincare.com."
+    "text": "Contact relatif aux données personnelles : support@myla-skincare.com."
   },
   {
     "type": "h2",
@@ -130,7 +130,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Toute réclamation peut être adressée à support@mila-skincare.com ou par courrier à STELYA, 10 square Jean Thebaud, 75015 Paris. L’utilisateur conserve le droit de saisir toute juridiction compétente conformément aux règles applicables."
+    "text": "Toute réclamation peut être adressée à support@myla-skincare.com ou par courrier à STELYA, 10 square Jean Thebaud, 75015 Paris. L’utilisateur conserve le droit de saisir toute juridiction compétente conformément aux règles applicables."
   },
   {
     "type": "h2",
@@ -138,7 +138,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "STELYA SAS · 10 square Jean Thebaud, 75015 Paris · support@mila-skincare.com"
+    "text": "STELYA SAS · 10 square Jean Thebaud, 75015 Paris · support@myla-skincare.com"
   },
   {
     "type": "h2",

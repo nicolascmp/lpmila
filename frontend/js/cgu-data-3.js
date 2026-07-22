@@ -1,9 +1,9 @@
 /*
-  Terms of use (CGU) content chunk 3 for Mila legal page.
-  Generated from CGU_Mila_Google_Docs.docx — do not edit by hand.
+  Terms of use (CGU) content chunk 3 for Myla legal page.
+  Generated from CGU_Myla_Google_Docs.docx — do not edit by hand.
 */
-window.MILA_CGU = window.MILA_CGU || [];
-window.MILA_CGU.push(...[
+window.MYLA_CGU = window.MYLA_CGU || [];
+window.MYLA_CGU.push(...[
   {
     "type": "link",
     "text": "Conditions standard de licence Apple",

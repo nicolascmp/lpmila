@@ -1,13 +1,13 @@
 /*
-  Privacy policy content chunk 1 for Mila legal page.
-  Generated from Politique_de_confidentialite_Mila.docx — do not edit by hand.
+  Privacy policy content chunk 1 for Myla legal page.
+  Generated from Politique_de_confidentialite_Myla.docx — do not edit by hand.
 */
-window.MILA_PRIVACY = window.MILA_PRIVACY || [];
-window.MILA_PRIVACY.push(...[
+window.MYLA_PRIVACY = window.MYLA_PRIVACY || [];
+window.MYLA_PRIVACY.push(...[
   {
     "type": "callout",
     "title": "L’essentiel",
-    "body": "Mila conserve vos photos de suivi et certaines informations relatives à votre peau afin de créer vos bilans et de suivre votre évolution. Ces données ne sont ni vendues, ni utilisées pour la publicité, ni utilisées pour entraîner des modèles d’intelligence artificielle. L’analyse est informative : Mila ne réalise pas de diagnostic médical et ne remplace pas un dermatologue. Vous pouvez retirer votre consentement et supprimer votre compte et ses données depuis l’application."
+    "body": "Myla conserve vos photos de suivi et certaines informations relatives à votre peau afin de créer vos bilans et de suivre votre évolution. Ces données ne sont ni vendues, ni utilisées pour la publicité, ni utilisées pour entraîner des modèles d’intelligence artificielle. L’analyse est informative : Myla ne réalise pas de diagnostic médical et ne remplace pas un dermatologue. Vous pouvez retirer votre consentement et supprimer votre compte et ses données depuis l’application."
   },
   {
     "type": "meta",
@@ -19,11 +19,11 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Le responsable du traitement est STELYA, société par actions simplifiée immatriculée sous le numéro SIREN 988 983 540, dont le siège social est situé 10 square Jean Thébaud, 75015 Paris, France (« STELYA », « Mila », « nous »)."
+    "text": "Le responsable du traitement est STELYA, société par actions simplifiée immatriculée sous le numéro SIREN 988 983 540, dont le siège social est situé 10 square Jean Thébaud, 75015 Paris, France (« STELYA », « Myla », « nous »)."
   },
   {
     "type": "p",
-    "text": "Contact vie privée et exercice des droits : support@mila-skincare.com"
+    "text": "Contact vie privée et exercice des droits : support@myla-skincare.com"
   },
   {
     "type": "h2",
@@ -31,11 +31,11 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Cette politique s’applique à l’application mobile Mila, à ses fonctionnalités de bilan de peau, de journal, de suivi émotionnel, de routines cosmétiques et de gestion d’abonnement."
+    "text": "Cette politique s’applique à l’application mobile Myla, à ses fonctionnalités de bilan de peau, de journal, de suivi émotionnel, de routines cosmétiques et de gestion d’abonnement."
   },
   {
     "type": "p",
-    "text": "Mila est exclusivement destinée aux personnes âgées de 18 ans ou plus. Nous ne collectons pas sciemment de données concernant une personne mineure. Si nous apprenons qu’un compte appartient à une personne de moins de 18 ans, nous le suspendrons et supprimerons ses données, sous réserve des obligations légales applicables."
+    "text": "Myla est exclusivement destinée aux personnes âgées de 18 ans ou plus. Nous ne collectons pas sciemment de données concernant une personne mineure. Si nous apprenons qu’un compte appartient à une personne de moins de 18 ans, nous le suspendrons et supprimerons ses données, sous réserve des obligations légales applicables."
   },
   {
     "type": "h2",
@@ -43,11 +43,11 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Mila fournit une estimation informative de l’apparence de la peau à partir de photographies et des informations communiquées par l’utilisateur. Elle propose des routines cosmétiques, des rappels de suivi et des conseils généraux de bien-être."
+    "text": "Myla fournit une estimation informative de l’apparence de la peau à partir de photographies et des informations communiquées par l’utilisateur. Elle propose des routines cosmétiques, des rappels de suivi et des conseils généraux de bien-être."
   },
   {
     "type": "p",
-    "text": "Mila n’est pas un dispositif médical, ne pose aucun diagnostic, ne prescrit aucun médicament et ne recommande aucun dosage ni produit soumis à prescription. Les résultats automatisés peuvent être incomplets ou inexacts. En cas d’acné sévère, douloureuse, soudaine, persistante, infectée, de réaction importante à un produit ou de doute médical, consultez un médecin ou un dermatologue avant toute décision concernant votre santé."
+    "text": "Myla n’est pas un dispositif médical, ne pose aucun diagnostic, ne prescrit aucun médicament et ne recommande aucun dosage ni produit soumis à prescription. Les résultats automatisés peuvent être incomplets ou inexacts. En cas d’acné sévère, douloureuse, soudaine, persistante, infectée, de réaction importante à un produit ou de doute médical, consultez un médecin ou un dermatologue avant toute décision concernant votre santé."
   },
   {
     "type": "h2",
@@ -67,7 +67,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "li",
-    "text": "Identifiant interne de compte généré par Mila."
+    "text": "Identifiant interne de compte généré par Myla."
   },
   {
     "type": "p",
@@ -99,7 +99,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "li",
-    "text": "Photographies du visage prises volontairement dans Mila pour effectuer un bilan et suivre l’évolution visuelle."
+    "text": "Photographies du visage prises volontairement dans Myla pour effectuer un bilan et suivre l’évolution visuelle."
   },
   {
     "type": "li",
@@ -115,7 +115,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Ces informations peuvent révéler des éléments relatifs à votre santé physique ou mentale. Nous les traitons comme des données particulièrement sensibles. Mila n’utilise pas les photos pour vous identifier, ne réalise pas de reconnaissance faciale et ne crée pas de gabarit biométrique d’identification."
+    "text": "Ces informations peuvent révéler des éléments relatifs à votre santé physique ou mentale. Nous les traitons comme des données particulièrement sensibles. Myla n’utilise pas les photos pour vous identifier, ne réalise pas de reconnaissance faciale et ne crée pas de gabarit biométrique d’identification."
   },
   {
     "type": "h3",
@@ -147,7 +147,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Mila ne collecte pas votre localisation précise et n’accède pas à vos contacts, à votre microphone ou à HealthKit. Les données de peau ne sont pas stockées dans iCloud par Mila."
+    "text": "Myla ne collecte pas votre localisation précise et n’accède pas à vos contacts, à votre microphone ou à HealthKit. Les données de peau ne sont pas stockées dans iCloud par Myla."
   },
   {
     "type": "h2",

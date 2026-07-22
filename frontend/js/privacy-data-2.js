@@ -1,9 +1,9 @@
 /*
-  Privacy policy content chunk 2 for Mila legal page.
-  Generated from Politique_de_confidentialite_Mila.docx — do not edit by hand.
+  Privacy policy content chunk 2 for Myla legal page.
+  Generated from Politique_de_confidentialite_Myla.docx — do not edit by hand.
 */
-window.MILA_PRIVACY = window.MILA_PRIVACY || [];
-window.MILA_PRIVACY.push(...[
+window.MYLA_PRIVACY = window.MYLA_PRIVACY || [];
+window.MYLA_PRIVACY.push(...[
   {
     "type": "oli",
     "text": "1. Créer et gérer votre compte — authentifier la connexion Apple, synchroniser votre historique et fournir les fonctionnalités demandées. Base légale : exécution du contrat."
@@ -22,7 +22,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "oli",
-    "text": "5. Mesurer et améliorer Mila — comprendre l’utilisation des fonctionnalités au moyen d’événements pseudonymisés. Base légale : votre consentement aux mesures d’audience. Les événements Amplitude sont désactivables et ne doivent contenir ni photo, ni nom, ni e-mail, ni date de naissance, ni détail de peau, de traitement, de stress ou de ressenti."
+    "text": "5. Mesurer et améliorer Myla — comprendre l’utilisation des fonctionnalités au moyen d’événements pseudonymisés. Base légale : votre consentement aux mesures d’audience. Les événements Amplitude sont désactivables et ne doivent contenir ni photo, ni nom, ni e-mail, ni date de naissance, ni détail de peau, de traitement, de stress ou de ressenti."
   },
   {
     "type": "oli",
@@ -38,15 +38,15 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Lorsque vous lancez un bilan, Mila transmet à Google Gemini la photographie concernée ainsi que les seules informations contextuelles nécessaires à l’analyse. Le modèle examine des caractéristiques visuelles apparentes, par exemple l’aspect général, la texture visible ou les différences entre zones, puis renvoie des indicateurs et suggestions informatives. Mila compare ensuite ces résultats à vos bilans antérieurs afin d’afficher une évolution."
+    "text": "Lorsque vous lancez un bilan, Myla transmet à Google Gemini la photographie concernée ainsi que les seules informations contextuelles nécessaires à l’analyse. Le modèle examine des caractéristiques visuelles apparentes, par exemple l’aspect général, la texture visible ou les différences entre zones, puis renvoie des indicateurs et suggestions informatives. Myla compare ensuite ces résultats à vos bilans antérieurs afin d’afficher une évolution."
   },
   {
     "type": "p",
-    "text": "Cette analyse ne produit aucune décision juridique ou décision ayant un effet similaire significatif sur vous. Elle ne détermine pas votre identité et ne doit pas être interprétée comme un diagnostic médical. Les résultats peuvent varier selon la lumière, l’angle, l’appareil, le maquillage, la qualité de la photo et les limites du modèle."
+    "text": "Cette analyse ne produit aucune décision juridique ou décision ayant un effet simylaire significatif sur vous. Elle ne détermine pas votre identité et ne doit pas être interprétée comme un diagnostic médical. Les résultats peuvent varier selon la lumière, l’angle, l’appareil, le maquillage, la qualité de la photo et les limites du modèle."
   },
   {
     "type": "p",
-    "text": "Avant le premier envoi à Google Gemini, Mila vous présente une information spécifique indiquant les catégories de données envoyées, l’objectif de l’analyse, l’identité du prestataire et la manière de retirer votre consentement. Aucun envoi à Gemini ne doit avoir lieu avant votre action affirmative."
+    "text": "Avant le premier envoi à Google Gemini, Myla vous présente une information spécifique indiquant les catégories de données envoyées, l’objectif de l’analyse, l’identité du prestataire et la manière de retirer votre consentement. Aucun envoi à Gemini ne doit avoir lieu avant votre action affirmative."
   },
   {
     "type": "h2",
@@ -62,7 +62,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Apple fournit Sign in with Apple, traite les paiements App Store et gère les abonnements au niveau du compte Apple. Apple agit selon ses propres conditions et sa politique de confidentialité. Mila reçoit uniquement les informations nécessaires à l’authentification et au statut de l’achat."
+    "text": "Apple fournit Sign in with Apple, traite les paiements App Store et gère les abonnements au niveau du compte Apple. Apple agit selon ses propres conditions et sa politique de confidentialité. Myla reçoit uniquement les informations nécessaires à l’authentification et au statut de l’achat."
   },
   {
     "type": "h3",
@@ -78,7 +78,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Google traite temporairement la photo et le contexte nécessaire pour générer le bilan. Mila utilise exclusivement Gemini API au travers d’un projet Cloud associé à un compte de facturation actif et soumis aux conditions de traitement applicables aux services payants. Dans ce cadre, Google indique ne pas utiliser les prompts, fichiers, photos ou réponses pour améliorer ses produits ou entraîner ses modèles. Google peut toutefois conserver des journaux pendant une durée limitée aux seules fins de sécurité, de prévention des abus ou d’obligation légale. Mila n’utilise pas la version gratuite de Gemini API pour traiter vos données."
+    "text": "Google traite temporairement la photo et le contexte nécessaire pour générer le bilan. Myla utilise exclusivement Gemini API au travers d’un projet Cloud associé à un compte de facturation actif et soumis aux conditions de traitement applicables aux services payants. Dans ce cadre, Google indique ne pas utiliser les prompts, fichiers, photos ou réponses pour améliorer ses produits ou entraîner ses modèles. Google peut toutefois conserver des journaux pendant une durée limitée aux seules fins de sécurité, de prévention des abus ou d’obligation légale. Myla n’utilise pas la version gratuite de Gemini API pour traiter vos données."
   },
   {
     "type": "h3",
@@ -94,7 +94,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "RevenueCat vérifie les reçus Apple, maintient le statut de l’abonnement et permet la restauration des achats. Les données sont limitées à un identifiant interne aléatoire, au statut et à l’historique d’achat. Mila ne transmet à RevenueCat ni photo, ni donnée de peau ou de santé, ni adresse e-mail comme identifiant d’abonné."
+    "text": "RevenueCat vérifie les reçus Apple, maintient le statut de l’abonnement et permet la restauration des achats. Les données sont limitées à un identifiant interne aléatoire, au statut et à l’historique d’achat. Myla ne transmet à RevenueCat ni photo, ni donnée de peau ou de santé, ni adresse e-mail comme identifiant d’abonné."
   },
   {
     "type": "p",
@@ -106,15 +106,15 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "li",
-    "text": "Mila ne vend ni ne loue vos données personnelles ou données de santé."
+    "text": "Myla ne vend ni ne loue vos données personnelles ou données de santé."
   },
   {
     "type": "li",
-    "text": "Mila ne partage pas vos données à des fins de publicité ciblée ou de marketing comportemental."
+    "text": "Myla ne partage pas vos données à des fins de publicité ciblée ou de marketing comportemental."
   },
   {
     "type": "li",
-    "text": "Mila n’utilise pas l’identifiant publicitaire Apple et ne suit pas votre activité entre les applications ou sites d’autres sociétés."
+    "text": "Myla n’utilise pas l’identifiant publicitaire Apple et ne suit pas votre activité entre les applications ou sites d’autres sociétés."
   },
   {
     "type": "li",
@@ -134,7 +134,7 @@ window.MILA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Vous pouvez demander des informations sur les garanties applicables en écrivant à support@mila-skincare.com."
+    "text": "Vous pouvez demander des informations sur les garanties applicables en écrivant à support@myla-skincare.com."
   },
   {
     "type": "h2",

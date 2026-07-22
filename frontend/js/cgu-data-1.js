@@ -1,13 +1,13 @@
 /*
-  Terms of use (CGU) content chunk 1 for Mila legal page.
-  Generated from CGU_Mila_Google_Docs.docx — do not edit by hand.
+  Terms of use (CGU) content chunk 1 for Myla legal page.
+  Generated from CGU_Myla_Google_Docs.docx — do not edit by hand.
 */
-window.MILA_CGU = window.MILA_CGU || [];
-window.MILA_CGU.push(...[
+window.MYLA_CGU = window.MYLA_CGU || [];
+window.MYLA_CGU.push(...[
   {
     "type": "callout",
     "title": "ÉDITEUR",
-    "body": "STELYA, société par actions simplifiée au capital de 214,28 €\n10 square Jean Thebaud, 75015 Paris\nSIREN 988 983 540 · RCS Paris · SIRET 988 983 540 00010\nTVA intracommunautaire FR89 988983540\nsupport@mila-skincare.com\nDirecteur de la publication : Nicolas Compagnon, Président"
+    "body": "STELYA, société par actions simplifiée au capital de 214,28 €\n10 square Jean Thebaud, 75015 Paris\nSIREN 988 983 540 · RCS Paris · SIRET 988 983 540 00010\nTVA intracommunautaire FR89 988983540\nsupport@myla-skincare.com\nDirecteur de la publication : Nicolas Compagnon, Président"
   },
   {
     "type": "meta",
@@ -15,19 +15,19 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Les présentes Conditions générales d’utilisation et d’abonnement (les « CGU ») régissent l’accès à l’application mobile Mila (l’« Application »). En créant un compte, en souscrivant un abonnement ou en utilisant Mila, l’utilisateur reconnaît avoir lu et accepté les présentes CGU."
+    "text": "Les présentes Conditions générales d’utilisation et d’abonnement (les « CGU ») régissent l’accès à l’application mobile Myla (l’« Application »). En créant un compte, en souscrivant un abonnement ou en utilisant Myla, l’utilisateur reconnaît avoir lu et accepté les présentes CGU."
   },
   {
     "type": "h2",
-    "text": "1. Objet de Mila"
+    "text": "1. Objet de Myla"
   },
   {
     "type": "p",
-    "text": "Mila est une application de suivi personnel de l’apparence de la peau et d’accompagnement cosmétique et émotionnel."
+    "text": "Myla est une application de suivi personnel de l’apparence de la peau et d’accompagnement cosmétique et émotionnel."
   },
   {
     "type": "p",
-    "text": "Selon les fonctionnalités disponibles, Mila permet notamment de réaliser et conserver des photographies du visage, suivre visuellement l’évolution apparente de la peau, recevoir une analyse automatisée et indicative, obtenir un indice non médical, organiser une routine cosmétique, enregistrer les produits utilisés et les étapes réalisées, consigner son ressenti et visualiser son historique."
+    "text": "Selon les fonctionnalités disponibles, Myla permet notamment de réaliser et conserver des photographies du visage, suivre visuellement l’évolution apparente de la peau, recevoir une analyse automatisée et indicative, obtenir un indice non médical, organiser une routine cosmétique, enregistrer les produits utilisés et les étapes réalisées, consigner son ressenti et visualiser son historique."
   },
   {
     "type": "p",
@@ -35,11 +35,11 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "h2",
-    "text": "2. Mila n’est pas un service médical"
+    "text": "2. Myla n’est pas un service médical"
   },
   {
     "type": "p",
-    "text": "Mila est une application de bien-être, de suivi visuel et d’accompagnement cosmétique. Elle ne constitue pas un dispositif médical et ne fournit aucun diagnostic, traitement, prescription ou avis médical."
+    "text": "Myla est une application de bien-être, de suivi visuel et d’accompagnement cosmétique. Elle ne constitue pas un dispositif médical et ne fournit aucun diagnostic, traitement, prescription ou avis médical."
   },
   {
     "type": "p",
@@ -47,7 +47,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "L’utilisateur ne doit pas commencer, interrompre ou modifier un traitement médical sur la base de Mila. En présence d’une acné sévère, douloureuse ou persistante, de lésions inhabituelles, d’une réaction, d’une aggravation rapide, de cicatrices importantes ou de toute inquiétude, il doit consulter un médecin ou un dermatologue. En cas d’urgence médicale en France, contacter le 15 ou le 112."
+    "text": "L’utilisateur ne doit pas commencer, interrompre ou modifier un traitement médical sur la base de Myla. En présence d’une acné sévère, douloureuse ou persistante, de lésions inhabituelles, d’une réaction, d’une aggravation rapide, de cicatrices importantes ou de toute inquiétude, il doit consulter un médecin ou un dermatologue. En cas d’urgence médicale en France, contacter le 15 ou le 112."
   },
   {
     "type": "h2",
@@ -55,7 +55,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Mila est réservée aux personnes âgées de 18 ans ou plus. L’utilisateur déclare avoir la capacité juridique nécessaire, fournir des informations exactes et utiliser uniquement des photographies représentant son propre visage."
+    "text": "Myla est réservée aux personnes âgées de 18 ans ou plus. L’utilisateur déclare avoir la capacité juridique nécessaire, fournir des informations exactes et utiliser uniquement des photographies représentant son propre visage."
   },
   {
     "type": "p",
@@ -67,7 +67,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "L’accès à Mila nécessite un compte créé au moyen de « Se connecter avec Apple ». L’utilisateur est responsable de la sécurité de son compte Apple et de son appareil et doit signaler toute utilisation non autorisée à support@mila-skincare.com."
+    "text": "L’accès à Myla nécessite un compte créé au moyen de « Se connecter avec Apple ». L’utilisateur est responsable de la sécurité de son compte Apple et de son appareil et doit signaler toute utilisation non autorisée à support@myla-skincare.com."
   },
   {
     "type": "p",
@@ -99,7 +99,7 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Un score Mila ne correspond pas à un niveau médical de gravité. Avant d’utiliser un nouveau produit, l’utilisateur doit lire sa composition et ses avertissements. En cas de traitement dermatologique, grossesse, allergie connue ou peau très réactive, il doit demander conseil à un professionnel de santé."
+    "text": "Un score Myla ne correspond pas à un niveau médical de gravité. Avant d’utiliser un nouveau produit, l’utilisateur doit lire sa composition et ses avertissements. En cas de traitement dermatologique, grossesse, allergie connue ou peau très réactive, il doit demander conseil à un professionnel de santé."
   },
   {
     "type": "h2",
@@ -135,11 +135,11 @@ window.MILA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "L’utilisateur peut désactiver le renouvellement automatique dans Réglages de l’iPhone → identifiant Apple → Abonnements → Mila → Résilier l’abonnement."
+    "text": "L’utilisateur peut désactiver le renouvellement automatique dans Réglages de l’iPhone → identifiant Apple → Abonnements → Myla → Résilier l’abonnement."
   },
   {
     "type": "p",
-    "text": "La suppression de l’Application ou du compte Mila ne résilie pas automatiquement l’abonnement Apple. La résiliation de l’abonnement ne supprime pas automatiquement le compte Mila. Après résiliation, l’accès payant demeure jusqu’à la fin de la période déjà facturée, sauf décision contraire d’Apple."
+    "text": "La suppression de l’Application ou du compte Myla ne résilie pas automatiquement l’abonnement Apple. La résiliation de l’abonnement ne supprime pas automatiquement le compte Myla. Après résiliation, l’accès payant demeure jusqu’à la fin de la période déjà facturée, sauf décision contraire d’Apple."
   },
   {
     "type": "h2",
