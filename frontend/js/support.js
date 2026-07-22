@@ -8,7 +8,7 @@
     return;
   }
 
-  const ENDPOINT = "https://formsubmit.co/ajax/support@myla-skincare.com";
+  const ENDPOINT = "https://formsubmit.co/ajax/support@mila-skincare.com";
   const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/i;
   const MAX_MESSAGE = 4000;
 
@@ -81,7 +81,7 @@
     </form>
     <p class="support-form__alt">
       Ou écris directement à
-      <a href="mailto:support@myla-skincare.com">support@myla-skincare.com</a>.
+      <a href="mailto:support@mila-skincare.com">support@mila-skincare.com</a>.
     </p>
   `;
 
@@ -157,7 +157,7 @@
       form.reset();
     } catch (_error) {
       setStatus(
-        "Envoi impossible. Écris-nous à support@myla-skincare.com.",
+        "Envoi impossible. Écris-nous à support@mila-skincare.com.",
         "error"
       );
     } finally {

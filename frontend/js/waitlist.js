@@ -9,7 +9,7 @@
     return;
   }
 
-  const ENDPOINT = "https://formsubmit.co/ajax/support@myla-skincare.com";
+  const ENDPOINT = "https://formsubmit.co/ajax/support@mila-skincare.com";
   // Instagram / TikTok style handle: optional @, 1–30 chars
   const HANDLE_RE = /^@?[A-Za-z0-9._]{1,30}$/;
 
@@ -121,7 +121,7 @@
       form.reset();
     } catch (_error) {
       setStatus(
-        "Envoi impossible pour le moment. Écris-nous à support@myla-skincare.com.",
+        "Envoi impossible pour le moment. Écris-nous à support@mila-skincare.com.",
         "error"
       );
     } finally {

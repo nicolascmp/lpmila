@@ -28,8 +28,8 @@
   const linkify = (escaped) =>
     escaped
       .replaceAll(
-        "support@myla-skincare.com",
-        '<a href="mailto:support@myla-skincare.com">support@myla-skincare.com</a>'
+        "support@mila-skincare.com",
+        '<a href="mailto:support@mila-skincare.com">support@mila-skincare.com</a>'
       )
       .replaceAll(
         "Politique de confidentialité",

@@ -110,7 +110,7 @@ window.MYLA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Contact relatif aux données personnelles : support@myla-skincare.com."
+    "text": "Contact relatif aux données personnelles : support@mila-skincare.com."
   },
   {
     "type": "h2",
@@ -130,7 +130,7 @@ window.MYLA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "Toute réclamation peut être adressée à support@myla-skincare.com ou par courrier à STELYA, 10 square Jean Thebaud, 75015 Paris. L’utilisateur conserve le droit de saisir toute juridiction compétente conformément aux règles applicables."
+    "text": "Toute réclamation peut être adressée à support@mila-skincare.com ou par courrier à STELYA, 10 square Jean Thebaud, 75015 Paris. L’utilisateur conserve le droit de saisir toute juridiction compétente conformément aux règles applicables."
   },
   {
     "type": "h2",
@@ -138,7 +138,7 @@ window.MYLA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "STELYA SAS · 10 square Jean Thebaud, 75015 Paris · support@myla-skincare.com"
+    "text": "STELYA SAS · 10 square Jean Thebaud, 75015 Paris · support@mila-skincare.com"
   },
   {
     "type": "h2",

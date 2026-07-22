@@ -134,7 +134,7 @@ window.MYLA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Vous pouvez demander des informations sur les garanties applicables en écrivant à support@myla-skincare.com."
+    "text": "Vous pouvez demander des informations sur les garanties applicables en écrivant à support@mila-skincare.com."
   },
   {
     "type": "h2",

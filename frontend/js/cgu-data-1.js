@@ -7,7 +7,7 @@ window.MYLA_CGU.push(...[
   {
     "type": "callout",
     "title": "ÉDITEUR",
-    "body": "STELYA, société par actions simplifiée au capital de 214,28 €\n10 square Jean Thebaud, 75015 Paris\nSIREN 988 983 540 · RCS Paris · SIRET 988 983 540 00010\nTVA intracommunautaire FR89 988983540\nsupport@myla-skincare.com\nDirecteur de la publication : Nicolas Compagnon, Président"
+    "body": "STELYA, société par actions simplifiée au capital de 214,28 €\n10 square Jean Thebaud, 75015 Paris\nSIREN 988 983 540 · RCS Paris · SIRET 988 983 540 00010\nTVA intracommunautaire FR89 988983540\nsupport@mila-skincare.com\nDirecteur de la publication : Nicolas Compagnon, Président"
   },
   {
     "type": "meta",
@@ -67,7 +67,7 @@ window.MYLA_CGU.push(...[
   },
   {
     "type": "p",
-    "text": "L’accès à Myla nécessite un compte créé au moyen de « Se connecter avec Apple ». L’utilisateur est responsable de la sécurité de son compte Apple et de son appareil et doit signaler toute utilisation non autorisée à support@myla-skincare.com."
+    "text": "L’accès à Myla nécessite un compte créé au moyen de « Se connecter avec Apple ». L’utilisateur est responsable de la sécurité de son compte Apple et de son appareil et doit signaler toute utilisation non autorisée à support@mila-skincare.com."
   },
   {
     "type": "p",

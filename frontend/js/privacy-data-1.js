@@ -23,7 +23,7 @@ window.MYLA_PRIVACY.push(...[
   },
   {
     "type": "p",
-    "text": "Contact vie privée et exercice des droits : support@myla-skincare.com"
+    "text": "Contact vie privée et exercice des droits : support@mila-skincare.com"
   },
   {
     "type": "h2",
